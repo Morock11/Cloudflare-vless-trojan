@@ -1,10 +1,9 @@
-name = "Cloudflare-vless-trojan"
-type = "javascript"
+name = "cloudflare-vless-trojan"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
 [env.production]
-name = "Cloudflare-vless-trojan"
+name = "cloudflare-vless-trojan"
 
 # 需要添加你的账户信息
 # account_id = "your-account-id"
